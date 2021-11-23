@@ -30,9 +30,9 @@ site:
     enabled: true
     width: 40
     height: 40
-    url: ../images/logo.png
+    url: images/logo.png
   title: Sparrow # 页面title
-  favicon: ../images/logo.png
+  favicon: /images/favicon.png
   board: <p>一个自卑的人，很现实。不清醒</p> # 站点公告
   copyright: true # 底部版权信息
 
