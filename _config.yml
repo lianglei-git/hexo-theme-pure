@@ -33,7 +33,7 @@ site:
     url: images/logo.png
   title: Sparrow # 页面title
   favicon: /images/favicon.png
-  board: <p>一个自卑的人，很现实。不清醒</p> # 站点公告
+  board: <p>无虑无忧无感无情无过去无未来</p> # 站点公告
   copyright: true # 底部版权信息
 
 # config
@@ -188,8 +188,8 @@ profile:
   avatar: images/logo.png
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
   author: 麻雀
-  author_title: 法律、程序员、骑行玩家
-  author_description: 一个普普通通的人，在做着一辈子里面普普通通的事情，然后普普通通向前走！
+  author_title: 💐
+  author_description: 我做了一个梦 变成了一艘船 短暂的漂泊后；没有靠岸，却搬去了青青草下
   location: 中国-北京
   follow: https://github.com/lianglei-git
   # Social Links
